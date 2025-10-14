@@ -1,0 +1,3 @@
+gitconfig -- global user.name "silverscarlet" 
+
+gitconfig -- global user.email 
