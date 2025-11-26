@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <title>full width container</title>
+        </head>
+        <body>
+            <div class="container-fluid bg-success text-white">
+                <h1>my first bootstrap </h1>
+                <p>This is inside a container class</p>
+                <p> the container class provides a fixed and responsive container</p>
+            </div>
+            
+        </body>
+    
+</html>
